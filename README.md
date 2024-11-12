@@ -1,1 +1,1 @@
-# teamplate-reactjs
+# REACTJS TEMPLATE

@@ -1,0 +1,21 @@
+@use 'normalize.css';
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+}
+
+img,
+picture,
+video,
+svg {
+  max-width: 100%;
+  object-fit: contain;
+}
+
+textarea {
+  resize: none;
+}
